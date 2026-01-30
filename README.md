@@ -1,4 +1,4 @@
 ## Information Portal
 
 ### Chatbot :
-to run, run in terminal : `streamlit run app.py`
+To run the app, type in terminal : `streamlit run app.py`
